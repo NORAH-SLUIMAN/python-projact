@@ -1,0 +1,7 @@
+Date,Store,Product,Price,Quantity_Sold
+2024-01-01,Store A,Laptop,1200,5
+2024-01-01,Store A,Smartphone,800,8
+2024-01-02,Store B,Shoes,100,10
+2024-01-02,Store B,Watch,250,3
+2024-01-03,Store A,Tablet,600,4
+2024-01-03,Store B,Laptop,1200,2
